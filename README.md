@@ -1,2 +1,4 @@
 # hello-world
-my 1st repository
+
+Hi, This is FLetcher Liu.
+I just finished my newee GitHub guide tour, and having fun right now.
